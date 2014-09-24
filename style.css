@@ -1,0 +1,62 @@
+.header {
+    background-color: transparent;
+    background-image: url(http://24.media.tumblr.com/a1fd8adb28873f209af8e889057829fd/tumblr_ms0eoaxZ5J1sbavuuo1_500.gif);
+    height: 250px;
+    background-size: cover;
+    background-position: 0px 5%;
+    text-decoration-color:deeppink;
+font-family: "Impact";
+font-size: 50px;
+text-align: justify;
+
+}
+
+.container {
+	background-color:deeppink;
+	max-width: 1500px;
+	margin: 1px;
+	text-align: center;
+	padding: 1px;
+
+}
+
+.left-column {
+	display: inline-block;
+	background-color: black;
+	top:50%;
+	left: 10%;
+	right:10%;
+	width:24%;
+	min-height: 1000px;
+	transform:translate(-50%,-50%);
+	box-shadow: 0 0 50px 20px midnightblue;
+	border: 5px solid lightslategrey;
+	vertical-align: top;
+	padding: 1px;
+text-decoration-color:deeppink;
+font-family: "Impact";
+font-size: 16px;
+
+	
+}
+
+
+.right-column {
+	display: inline-block;
+	background-color: black;
+	top: 50%;
+	left: 10%;
+	right:10%;
+	width:65%;
+	min-height: 1000px;
+	transform:translate(-50%,-50%);
+	box-shadow: 0 0 50px 20px midnightblue;
+	border: 5px solid lightslategrey;
+	vertical-align:top;
+	padding: 1px;
+text-decoration-color:deeppink;
+font-family: "Impact";
+font-size: 16px;
+
+
+}
